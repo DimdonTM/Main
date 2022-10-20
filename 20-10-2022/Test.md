@@ -13,3 +13,4 @@ x^{5}=\frac{x+y_6}{\sqrt{x+\frac{1}{x}}}
 $$
 
 ![Описание](img/image.png)
+
