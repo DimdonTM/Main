@@ -70,6 +70,7 @@ dict[key] = value
 >>> x['one'] = 0
 # {'one': 0, 'two': 20, 'three': 3, 'four': 4, 'ten': 10}
 ```
+
 ## Методы словарей
 
 - **dict.clear**() - очищает словарь.
@@ -94,3 +95,12 @@ dict[key] = value
 
 - **dict.values**() - возвращает значения в словаре.
 
+
+## Формулы
+
+$$
+\int_{}^{}\frac{dx}{a^2+x^2}=\frac{1}{2}arctg\frac{x}{a}+C (a\neq0)
+$$
+$$
+\int_{}^{}\frac{dx}{\sqrt{x^2\pm a^2}}=ln|x+\sqrt{x^2+a^2}|+C (a>0)
+$$
