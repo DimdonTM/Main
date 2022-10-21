@@ -101,15 +101,19 @@ dict[key] = value
 $$
 \int_{}^{}\frac{dx}{a^2+x^2}=\frac{1}{2}arctg\frac{x}{a}+C (a\neq0)
 $$
+
 $$
 \int_{}^{}\frac{dx}{\sqrt{x^2\pm a^2}}=ln|x+\sqrt{x^2+a^2}|+C (a>0)
 $$
+
 $$
 d*(f,g)=\int_{a}^{b} |f(t)-g(t)dt| < \delta
 $$
+
 $$
 |\int_{a}^{b} f(t)-g(t)dt|=|\lim_{n \rightarrow \infty }|\leq
 $$
+
 $$
 \lim_{n \rightarrow \ infty} {\sum_i^n}|M_{i}(t_{i} - t_{i}-_{1}| = \int_{a}^{b} |f(t)-g(t)dt|<\delta = \epsilon
 $$
